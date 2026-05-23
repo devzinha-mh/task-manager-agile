@@ -15,4 +15,17 @@ public class TaskService {
              System.out.println(task);
          }
      }
+    public void updateTask(int id, String newTitle) {
+
+        for (Task task : tasks) {
+
+            if(task.getId() == id) {
+                task.setTitle(newTitle);
+            }
+        }
+    }
+
+    public void removeTask(int id) {
+        tasks.removeIf(task -> task.getId() == id);
+    }
 }
