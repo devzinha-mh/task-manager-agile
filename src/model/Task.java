@@ -19,7 +19,7 @@ public class Task {
         return title;
     }
 
-    public void setTitle(String title) {
+    public void setTitle (String title) {
         this.title = title;
     }
 
@@ -27,7 +27,7 @@ public class Task {
         return priority;
     }
 
-    public void setPriority(String priority) {
+    public void setPriority (String priority) {
         this.priority = priority;
     }
 
