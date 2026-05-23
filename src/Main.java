@@ -76,7 +76,7 @@ public class Main {
 
                 case 0:
 
-                    System.out.println("Encerrando sistema...");
+                    System.out.println("Sistema encerrado com sucesso...");
                     break;
 
                 default:

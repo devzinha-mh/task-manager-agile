@@ -75,7 +75,6 @@ O sistema permite que o usuário:
 
 # Sistema desenvolvido em java
 
-# Autor
-
+# Autor do Projeto
 Manuela Alves  
 RA: 144203
