@@ -73,6 +73,7 @@ O sistema permite que o usuário:
 4. Remova tarefas
 5. Defina prioridades
 
+# Sistema desenvolvido em java
 
 # Autor
 
